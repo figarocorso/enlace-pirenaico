@@ -1,0 +1,11 @@
+url: http://migueljulian.com/enlace-pirenaico
+baseurl: ""
+
+# Site settings
+title: Enlace Pirenaico
+email: figarocorso@gmail.com
+description: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
